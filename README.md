@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DragoPL987
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning Unity
+- ⚡ Fun fact: Iam alive
